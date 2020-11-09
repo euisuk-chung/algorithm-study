@@ -1,6 +1,6 @@
 ## Algorithm-study
 
-Daily python coding dairy 
+Daily python coding diary 
 
 Python Algorithm questions and answers. (in Korean)
 
